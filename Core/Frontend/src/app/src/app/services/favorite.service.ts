@@ -36,6 +36,7 @@ export class FavoriteService {
 
       if (res === 'success'){
         this.favoriteBooksIds.push(id);
+        this.CarregarListaFavoritosObjeto();
         this.toastr.success('Salvo com Sucesso!', 'Notificação');
       }
     });
@@ -51,14 +52,14 @@ export class FavoriteService {
           if ( this.favoriteBooksIds[i] === id ){
               this.favoriteBooksIds.splice(i, 1);
           }
-
+        }
+        for (let i = 0; i < this.favoriteBooks.length; i++){
           if (this.favoriteBooks[i].Id === id){
             this.favoriteBooks.splice(i, 1);
+            this.toastr.warning('Removido com Sucesso', 'Notificação!');
           }
         }
-        this.toastr.success('Removido com Sucesso', 'Notificação');
       }
-
     });
   }
 }

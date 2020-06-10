@@ -16,7 +16,6 @@ import { NoopAnimationsModule, BrowserAnimationsModule } from '@angular/platform
 
 import {MaterialModule} from './material.module';
 
-import {FlexLayoutModule} from '@angular/flex-layout';
 import { WelcomeComponent } from './src/app/components/welcome/welcome.component';
 import { DashboardComponent } from './src/app/components/dashboard/dashboard.component';
 import { HttpClientModule } from '@angular/common/http';
@@ -49,12 +48,11 @@ export function provideConfig() {
     AppRoutingModule,
     SocialLoginModule,
     NoopAnimationsModule,
-    FlexLayoutModule,
     FormsModule,
     ReactiveFormsModule,
     HttpClientModule,
     ToastrModule.forRoot({
-      timeOut: 500,
+      timeOut: 1000,
       positionClass: 'toast-top-right',
       preventDuplicates: false,
     })
