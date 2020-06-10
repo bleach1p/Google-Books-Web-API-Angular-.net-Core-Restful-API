@@ -37,3 +37,7 @@ Angular Social Login - https://www.npmjs.com/package/angularx-social-login
 ng-mat-search-bar - https://www.npmjs.com/package/ng-mat-search-bar
 FontAwesome para ícones - https://fontawesome.com/icons/
 
+Foram utilizadas em torno de 12 horas para desenvolver o projeto por completo.
+
+A parte do backend foi definitivamente mais simples de desenvolver por já estar bem habituado com o .net / asp.net em si.
+O frontend houveram algumas dificuldades pois por mais que já tenha utilizado angular em diversas oportunidades, ainda não é algo que está presente 100% no meu dia-a-dia. Para frontend hoje em dia estou mais acostumado com as razors page do próprio asp.net juntamente com typescript e jquery vinculado ao projeto. Porém nada como um bom desafio para buscar novas tecnologias e aprendê-las :)
