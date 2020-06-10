@@ -37,3 +37,4 @@ Angular Social Login - https://www.npmjs.com/package/angularx-social-login
 ng-mat-search-bar - https://www.npmjs.com/package/ng-mat-search-bar
 FontAwesome para ícones - https://fontawesome.com/icons/
 
+Foram utilizadas em torno de 12 horas para desenvolver o projeto por completo.
