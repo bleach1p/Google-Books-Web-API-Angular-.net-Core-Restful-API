@@ -1,0 +1,20 @@
+<div class="parent" >
+<div *ngFor="let item of books; let i = index">
+  <mat-card class="child">
+    <mat-card-header>
+      <span class="small-font-size"><b>{{item.VolumeInfo.Title|slice :0:25}}</b></span>
+    </mat-card-header>
+    <img class="fit-image" mat-card-image [src]="item.VolumeInfo.ImageLinks.SmallThumbnail">
+    <mat-card-content>
+    </mat-card-content>
+    <mat-card-actions>
+        <button *ngIf='favoriteService.favoriteBooksIds.indexOf(item.Id) < 0; else desfavoritar' mat-button (click)="Favoritar(item.Id)">
+          <i class="fa fa-star fa-lg" style="color:yellow"></i>Favoritar</button>
+      <ng-template #desfavoritar>
+        <button mat-button (click)="Desfavoritar(item.Id)"><i class="fa fa-trash fa-lg" style="color:black"></i>Remover</button>
+      </ng-template>
+      <button mat-button> Saiba Mais</button>
+    </mat-card-actions>
+  </mat-card>
+</div>
+</div>

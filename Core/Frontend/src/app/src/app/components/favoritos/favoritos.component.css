@@ -1,0 +1,28 @@
+.parent {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.child {
+  flex: 1 0 25%;
+  margin-left: 30px;
+  margin-top: 10px;
+  height: auto;
+  border-style: ridge;
+  border-color: gray;
+}
+
+.small-font-size{
+  font-size: 12px;
+
+}
+
+.fit-image{
+  object-fit: cover;
+  width: 175px;
+  height: 200px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}

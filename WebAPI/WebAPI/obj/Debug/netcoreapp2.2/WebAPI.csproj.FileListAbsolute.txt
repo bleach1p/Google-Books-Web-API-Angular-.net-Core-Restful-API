@@ -1,0 +1,50 @@
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+F:\profession\CodAffection\Asp.Net Core\Web API and Angular 7 CRUD\project\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\jojoh\Desktop\Projects\Asp.Net-Core-Angular\WebApi\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.deps.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.runtimeconfig.dev.json
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\bin\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csprojAssemblyReference.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorAssemblyInfo.cs
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfoInputs.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.AssemblyInfo.cs
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.RazorTargetAssemblyInfo.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.dll
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.pdb
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.genruntimeconfig.cache
+C:\Users\jojoh\Desktop\Projects\prova\Google-Books-Web-API-Angular-.net-Core-Restful-API\WebAPI\WebAPI\obj\Debug\netcoreapp2.2\WebAPI.csproj.CoreCompileInputs.cache

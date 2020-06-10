@@ -1,0 +1,37 @@
+<mat-toolbar class="navbar">
+
+  <a  *ngIf='authGuard.loggedIn' [routerLink]="['/dashboard']">
+    <div >E-Books</div>
+  </a>
+  <a  *ngIf='!authGuard.loggedIn' [routerLink]="['/']">
+    <div >E-Books</div>
+  </a>
+
+  <div class="last-element"></div>
+  <div class="">
+    <mat-search-bar [(ngModel)]="searchInput" style="color:white; zoom:1.1; font-size:1.0rem;" (onEnter)='OnEnterSearch()' >
+    </mat-search-bar>
+  </div>
+
+  <div *ngIf='!authGuard.loggedIn; else loggedOut'>
+    <a (click)='Login()' class='hover-with-pointer'>
+      <button mat-button>
+        <i class="fa fa-google fa-2x"></i> <span style="margin-left: 5px; font-size: 1.1rem;">Login</span>
+      </button>
+    </a>
+  </div>
+
+<ng-template #loggedOut>
+  <div>
+  <button mat-button [matMenuTriggerFor]="menu" class="no-border no-background">
+    <img src='{{authGuard.user.photoUrl}}' class='rounded-border'>
+  </button>
+    <mat-menu #menu="matMenu">
+      <button mat-menu-item routerLink="/favoritos">Favoritos</button>
+      <button mat-menu-item routerLink="/" (click)='Logout()'>Logout</button>
+    </mat-menu>
+  </div>
+</ng-template>
+
+</mat-toolbar>
+<router-outlet></router-outlet>

@@ -1,0 +1,49 @@
+span{
+  padding-right: 1rem;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover,
+a:active {
+  color: lightgray;
+}
+
+.align-left{
+  margin-left: 1rem;
+}
+
+.hover-with-pointer{
+  cursor:pointer;
+}
+
+.last-element {
+  flex: 1 1 auto;
+}
+
+.no-border{
+  border: none;
+  outline:none;
+  cursor: pointer;
+}
+
+.navbar{
+  background-color: #3f51b5;
+  overflow: hidden;
+  width: 100%;
+  align-content: center;
+}
+
+.no-background{
+  background-color: #3f51b5;
+}
+
+.rounded-border{
+  border-radius: 50%;
+  height: 100%;
+  width: 40%;
+  vertical-align: middle;
+}
