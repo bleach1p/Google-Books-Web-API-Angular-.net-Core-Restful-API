@@ -27,7 +27,6 @@ export class FavoriteService {
   public async CarregarListaFavoritosObjeto(){
     await this.http.get<BookList>(this.rootUrl + '/Favorite/login?login=' + this.auth.user.id + '&returnIdsString=true')
     .toPromise().then(res => {
-      debugger;
       this.favoriteBooks = res.Items;
     });
   }
